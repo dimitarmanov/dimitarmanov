@@ -14,12 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitarmanov&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dimitarmanov&icon=0&color=2)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=dimitarmanov&icon=0&color=3)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=dimitarmanov&icon=0&color=4)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=dimitarmanov&icon=0&color=5)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=dimitarmanov&icon=0&color=6)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=dimitarmanov&icon=0&color=7)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=dimitarmanov&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dimitarmanov&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
