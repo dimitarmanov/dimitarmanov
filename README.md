@@ -10,12 +10,14 @@
 <img align="left" alt="Terraform" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="34px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Go" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Prometheus" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Grafana" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MariaDB" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jellyfin" width="34px" src="https://www.svgrepo.com/show/349420/jellyfin.svg" style="padding-right:10px;" /><br/>
 
 
 
