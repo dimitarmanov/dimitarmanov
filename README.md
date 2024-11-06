@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-☁️ DevOps Engineer with expertise in AWS and Terraform.<br><br>♾️ I specialize in cloud infrastructure automation and CI/CD pipelines.<br><br>![Go](https://icon-icons.com/icon/golang-logo/171073) Currently expanding skills in ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) Python and ![Go]([https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg)) Go
+☁️ DevOps Engineer with expertise in AWS and Terraform.<br><br>♾️ I specialize in cloud infrastructure automation and CI/CD pipelines.<br><br>![Go](https://icon-icons.com/icon/golang-logo/171073) Currently expanding skills in Python and Go 
 
 
 ## 🌐 Socials:
