@@ -2,6 +2,7 @@
 <img align="left" alt="Cloud" width="40px" src="https://img.icons8.com/?size=100&id=21754&format=png&color=000000" style="padding-right:10px;" />DevOps Engineer with expertise in AWS and Terraform.<br>
 <br> <img align="left" alt="DevOps" width="40px" src="https://img.icons8.com/?size=100&id=CLa3T2WlbrOP&format=png&color=000000" style="padding-right:10px;" />I specialize in cloud infrastructure, automation and CI/CD.<br> 
 <br><img align="left" alt="Coding" width="40px" src="https://img.icons8.com/?size=100&id=l0UsZRTvcGel&format=png&color=000000" style="padding-right:10px;" />Currently expanding my skills in Python and Go.<br>
+<br>
 
 # 💻 Tech Stack:
 <img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
