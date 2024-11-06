@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-☁️ DevOps Engineer with expertise in AWS and Terraform.<br><br>♾️ I specialize in cloud infrastructure, automation and CI/CD.<br><br>![Go](https://icon-icons.com/icon/golang-logo/171073) Currently expanding skills in Python and Go 
+☁️ DevOps Engineer with expertise in AWS and Terraform.<br><br>♾️ I specialize in cloud infrastructure, automation and CI/CD.<br>![Go](https://icon-icons.com/icon/golang-logo/171073) Currently expanding skills in Python and Go 
 
 
 ## 🌐 Socials:
