@@ -17,7 +17,7 @@
 <img align="left" alt="Grafana" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MariaDB" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jellyfin" width="34px" src="https://www.svgrepo.com/show/349420/jellyfin.svg" style="padding-right:10px;" /><br/>
+<img align="left" alt="Jellyfin" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Jellyfin_-_icon-transparent.svg" style="padding-right:10px;" /><br/>
 
 
 
