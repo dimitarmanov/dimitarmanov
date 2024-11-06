@@ -2,8 +2,8 @@
 ☁️ DevOps Engineer with expertise in AWS and Terraform.<br><br>♾️ I specialize in cloud infrastructure, automation and CI/CD.<br> Currently expanding my skills in Python and Go.
 
 
-## <img align="left" alt="Socials" width="40px" src="https://img.icons8.com/color/48/geography--v1.png" style="padding-right:10px;" /> Socials:
-[![LinkedIn](https://img.icons8.com/?size=100&id=21088&format=png&color=000000)](https://linkedin.com/in/dmanov) 
+## <img align="left" alt="Socials" width="30px" src="https://img.icons8.com/color/48/geography--v1.png" style="padding-right:10px;" /> Socials:
+[![LinkedIn](https://img.icons8.com/?size=100&id=tvG-nQ3s2hZL&format=png&color=000000)](https://linkedin.com/in/dmanov) 
 
 # 💻 Tech Stack:
 <img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
